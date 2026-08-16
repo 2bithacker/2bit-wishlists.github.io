@@ -1,0 +1,163 @@
+---
+title: SpaceMonkey's Weapon Guide - Final Update - Destination Weapons
+description: https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c/edit?usp=sharing
+author: SpaceMonkey
+wishlist:
+  - name: DEADHORSE 04
+    hash: 822872238
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+          - [Alloy Magazine]
+          - [Rimestealer]
+          - [Crystalline Corpsebloom]
+        masterwork: [Range]
+        text: &deadhorse >-
+          This is totally fine. SMGs are mostly just utility guns now and this
+          honestly doesn't come with enough utility or lethality to really
+          justify being used outside of a dedicated stasis build that cares
+          deeply about the keywords this provides.
+      - tags: [pve]
+        perks:
+          - [
+              Fluted Barrel,
+              Corkscrew Rifling,
+              Arrowhead Brake,
+              Hammer-Forged Rifling,
+            ]
+          - [
+              Alloy Magazine,
+              Accurized Rounds,
+              Flared Magwell,
+              Tactical Mag,
+              Appended Mag,
+            ]
+          - [Rimestealer, Impromptu Ammunition]
+          - [Crystalline Corpsebloom, Redirection]
+        masterwork: [Range, Reload, Handling]
+        text: *deadhorse
+
+  - name: DECATUR 02
+    hash: 1850748385
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Full Bore, Corkscrew Rifling]
+          - [Accurized Rounds, Alloy Magazine]
+          - [Physic, Attrition Orbs]
+          - [Reciprocity]
+        masterwork: [Range]
+        text: &decatur >-
+          The best kinetic slot support auto by a wide margin. Grants Frost
+          Armor as the intrinsic which is neat. I suppose there really isn't
+          much more to say about it. If you're in a fireteam and you like to
+          heal people and your build uses from Frost Armor keywords then yeah
+          this is probably your gun.
+      - tags: [pve]
+        perks:
+          - [Full Bore, Corkscrew Rifling, Hammer-forged Rifling, Smallbore]
+          - [Accurized Rounds, Alloy Magazine, Flared Magwell]
+          - [Physic, Attrition Orbs, Crystalline Corpsebloom]
+          - [Reciprocity, Master of Arms, Circle of Life, Redirection]
+        masterwork: [Range, Reload]
+        text: *decatur
+
+  - name: ALLEN 05
+    hash: 423677697
+    rolls:
+      - tags: [pve]
+        perks:
+          - [
+              Fluted Barrel,
+              Polygonal Rifling,
+              Corkscrew Rifling,
+              Arrowhead Brake,
+            ]
+          - [Tactical Mag, Steady Rounds, Alloy Magazine]
+          - [Fourth Time's the Charm, Lone Wolf, Tear]
+          - [Precision Instrument, Firing Line]
+        masterwork: [Handling, Stability, Reload]
+        text: >-
+          Not very good honestly. There are better adaptive snipers in this slot
+          and better strand snipers. It would have been an incredible PvP sniper
+          if Carrion Munitions worked in the Crucible, but sadly not only does
+          it not do the cool insectoid thing it actually just has no function at
+          all, so this is actually worse than any other similar PvP sniper with
+          an origin trait (all of them).
+
+  - name: TAHOMA 01
+    hash: 1225851434
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Arrowhead Brake]
+          - [Accelerated Coils]
+          - [Overflow, Lead from Gold, Demolitionist, Hatchling]
+          - [Aggregate Charge, Controlled Burst, Reservoir Burst]
+        masterwork: [Charge Time]
+        text: >-
+          Fusion rifles are mediocre and this is one of the worst archetypes and
+          has almost nothing going for it other than the origin trait.
+
+  - name: IRONWOOD 03
+    hash: 2041617874
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Barrel Shroud, Corkscrew Rifling]
+          - [Alloy Magazine]
+          - [Repulsor Brace]
+          - [Destabilizing Rounds]
+        masterwork: [Reload]
+        text: &ironwood >-
+          Absolute powerhouse of a redbar slayer. Faces a lot of steep
+          competition in the slot, especially since it only stuns overloads, but
+          the origin trait and base lethality of the frame should do a lot of
+          heavy lifting for this gun. If you can play within its range this is
+          one of the best void combo weapons we have.
+      - tags: [pve]
+        perks:
+          - [Barrel Shroud, Corkscrew Rifling, Smallbore]
+          - [Alloy Magazine, Accurized Rounds, Flared Magwell]
+          - [Repulsor Brace, Dimensional Shift, Threat Remover]
+          - [Destabilizing Rounds, Surrounded]
+        masterwork: [Reload, Range, Handling]
+        text: *ironwood
+
+  - name: DIABLERETS 06
+    hash: 1120206506
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake]
+          - [Extended Mag, Alloy Magazine, High-Caliber Rounds]
+          - [Auto-loading Holster]
+          - [Killing Tally]
+        masterwork: [Reload]
+        text: &diablerets >-
+          Extreme add clear machine gun here, one of the best in the game with
+          the origin trait. Especially in overload heavy content this gun should
+          do incredible work. One of the best new guns we were given. This also
+          very much fits the way I like to play personally, so I prefer this
+          over many other similar weapons as well. Annoyingly this gun's recoil
+          pattern is pretty rough, so even with Arrowhead Brake you likely still
+          need to take Counterbalance mod if you don't want the gun to kick up
+          and right on you when you pull it out. But that means no Backup Mag,
+          which is a pretty big downside but tbh is probably just the reality of
+          Rapid-Fire machine guns at this point.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [
+              Extended Mag,
+              Alloy Magazine,
+              High-Caliber Rounds,
+              Appended Mag,
+              Flared Magwell,
+              Light Mag,
+            ]
+          - [Auto-loading Holster, Hatchling, Subsistence]
+          - [Killing Tally, Redirection, Meganeura]
+        masterwork: [Reload, Handling, Range, Stability]
+        text: *diablerets
