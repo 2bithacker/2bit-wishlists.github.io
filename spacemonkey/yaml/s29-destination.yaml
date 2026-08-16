@@ -219,7 +219,7 @@ wishlist:
           champs, which as discussed is the most ideal use case for a kinetic
           tremors weapon. It has attrition orbs for utility and shoot to loot as
           an alternative in the same slot. All that paired with a very good
-          origin trait means you’ve got a great workhorse that should basically
+          origin trait means you've got a great workhorse that should basically
           be the default barrier-stunning multimach alternative.
       - tags: [pve]
         perks:
@@ -404,7 +404,7 @@ wishlist:
           - [Trench Barrel, One-Two Punch]
         masterwork: [Handling, Reload]
         text: &deicide >-
-          This is fine. High QoL roaming melee-build-based shotgun. We’ve had
+          This is fine. High QoL roaming melee-build-based shotgun. We've had
           these before and this is just another one. A solid entry but an
           unexciting one.
       - tags: [pve]
@@ -516,3 +516,121 @@ wishlist:
           - [Killing Tally]
         masterwork: [Reload, Handling, Range, Stability]
         text: *temporalclause
+
+  - name: Seventh Seraph Carbine
+    hash: 2560370239
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [Seraph Rounds]
+          - [Attrition Orbs]
+          - [Kinetic Tremors]
+        masterwork: [Reload]
+        text: &sscarbine >-
+          The poor mans Scathelocke and the poor mans Pluperfect together in one
+          gun. Unfortunately it's a precision frame which is basically just
+          strictly worse than adaptives so it will always be worse than
+          scathelocke - especially at an origin trait discrepancy. And then
+          Pluperfect is just better for staggering enemies even if you wanted to
+          use this for that playstyle. It's a fine gun to have around as a
+          workhorse especially if you like it, it just isn't top of the class.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling]
+          - [Seraph Rounds, Alloy Magazine, Flared Magwell, Tactical Mag]
+          - [Attrition Orbs, Stopping Power]
+          - [Kinetic Tremors, Ancillary Ordinance]
+        masterwork: [Reload, Handling, Range]
+        text: *sscarbine
+
+  - name: Seventh Seraph Officer Revolver
+    hash: 3490736392
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+          - [Seraph Rounds, Alloy Magazine, Flared Magwell, Tactical Mag]
+          - [Shoot to Loot, Bewildering Burst]
+          - [Explosive Payload]
+        masterwork: [Reload, Handling]
+        text: >-
+          This is fine. Another shoot to loot + explosive payload weapon but
+          this isn't even the best kinetic precision stl+ep hand cannon in the
+          meta right now. It's a very specific kind of player that even wants
+          this roll anyway, and that kind of player will probably go for the
+          better weapon anyway.
+
+  - name: Seventh Seraph SI-2
+    hash: 453798564
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [Seraph Rounds]
+          - [Destabilizing Rounds]
+          - [Repulsor Brace]
+        masterwork: [Range, Reload]
+        text: &sssi2 >-
+          Really good sidearm, pretty much only overshadowed by a specific
+          accelerated assault version of the renegades sidearm. And for anyone
+          who just doesn't want to deal with blaster mechanics this is almost
+          exactly the same thing - and it gets seraph rounds!
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling]
+          - [Seraph Rounds, Alloy Magazine, Flared Magwell, Tactical Mag]
+          - [Destabilizing Rounds, Dimensional Shift]
+          - [Repulsor Brace, Meganeura, Surrounded]
+        masterwork: [Range, Reload, Handling]
+        text: *sssi2
+
+  - name: Seventh Seraph VY-7
+    hash: 1719169808
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+          - [Seraph Rounds, Alloy Magazine, Flared Magwell, Tactical Mag]
+          - [Supercharged Magazine, Trickle Charge]
+          - [Jolting Feedback]
+        masterwork: [Reload, Range, Handling]
+        text: >-
+          Precision frame smgs are not good. This also doesn't get attrition
+          orbs or anything really special. This is a dud.
+
+  - name: Seventh Seraph CQC-12
+    hash: 2308010345
+    rolls:
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Smoothbore]
+          - [Accurized Rounds]
+          - [Threat Detector, Slideshot]
+          - [Closing Time]
+        masterwork: [Handling, Reload]
+        text: &sscqc >-
+          PvP only. Actually should be a good little gun in the crucible
+          honestly.
+      - tags: [pvp]
+        perks:
+          - [Smoothbore, Smallbore, Barrel Shroud, Corkscrew Rifling]
+          - [Accurized Rounds, Light Mag]
+          - [Threat Detector, Slideshot]
+          - [Closing Time]
+        masterwork: [Handling, Reload, Range]
+        text: *sscqc
+
+  - name: Seventh Seraph SAW
+    hash: 2584201248
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [Alloy Magazine, Appended Mag, Extended Mag]
+          - [Supercharged Magazine, Trickle Charge]
+          - [Killing Tally, Meganeura, Jolting Feedback]
+        masterwork: [Reload, Handling, Range, Stability]
+        text: >-
+          Not very interesting, there are a lot of machine guns that do
+          everything this does better.
