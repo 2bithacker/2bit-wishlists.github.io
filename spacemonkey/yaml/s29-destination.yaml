@@ -354,3 +354,165 @@ wishlist:
           - [Eager Edge]
         masterwork: [Impact]
         text: *nasreddin
+
+  - name: Pluperfect
+    hash: 2203881482
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [High-Caliber Rounds]
+          - [Stopping Power]
+          - [Kinetic Tremors]
+        masterwork: [Reload]
+        text: &pluperfect >-
+          Very unique gun. Can combine all 3 staggering mechanics on one gun to
+          provide some real crowd control to keep enemies flinched. Honestly
+          it's a very cool different way to think about a supportive utility
+          playstyle and I actually really dig it.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling]
+          - [High-Caliber Rounds]
+          - [Stopping Power]
+          - [Kinetic Tremors, Aggregate Charge]
+        masterwork: [Reload, Handling]
+        text: *pluperfect
+
+  - name: True Prophecy
+    hash: 960948343
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+          - [Alloy Magazine, Flared Magwell, Tactical Mag]
+          - [Light Touch, Trickle Charge]
+          - [Jolting Feedback]
+        masterwork: [Reload, Handling]
+        text: >-
+          Really bad. This archetype sucks in PvE and the perks aren't really
+          that great either.
+
+  - name: The Deicide
+    hash: 1517780158
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Barrel Shroud]
+          - [Appended Mag]
+          - [Auto-loading Holster]
+          - [Trench Barrel, One-Two Punch]
+        masterwork: [Handling, Reload]
+        text: &deicide >-
+          This is fine. High QoL roaming melee-build-based shotgun. We’ve had
+          these before and this is just another one. A solid entry but an
+          unexciting one.
+      - tags: [pve]
+        perks:
+          - [Barrel Shroud, Corkscrew Rifling]
+          - [Appended Mag, Extended Mag, Accurized Rounds, Tactical Mag]
+          - [
+              Auto-loading Holster,
+              Discord,
+              Lead from Gold,
+              Threat Detector,
+              Dual Loader,
+              Light Touch,
+            ]
+          - [Trench Barrel, One-Two Punch]
+        masterwork: [Handling, Reload, Range]
+        text: *deicide
+
+  - name: Trophy Hunter
+    hash: 2566169398
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Fluted Barrel]
+          - [Tactical Mag, Appended Mag]
+          - [Triple Tap, Auto-loading Holster]
+          - [Aggregate Charge, Withering Gaze]
+        masterwork: [Handling]
+        text: &trophyhunter >-
+          This was close in a couple different ways to being a legitimately meta
+          weapon, but it falls short every time. It's not the best DPS sniper
+          (even in the energy slot), it's not the best withering gaze sniper,
+          and it isn't even the best unstoppable stunning sniper in the energy
+          slot. It gets some good rolls and if you like the gun it will
+          certainly have success for you, it's just like 2nd place in 3
+          categories without winning any of them.
+      - tags: [pve]
+        perks:
+          - [
+              Fluted Barrel,
+              Polygonal Rifling,
+              Corkscrew Rifling,
+              Arrowhead Brake,
+            ]
+          - [
+              Tactical Mag,
+              Appended Mag,
+              Extended Mag,
+              Steady Rounds,
+              Alloy Magazine,
+            ]
+          - [Triple Tap, Auto-loading Holster, Lead from Gold]
+          - [Aggregate Charge, Withering Gaze, Bait and Switch]
+        masterwork: [Handling, Stability, Reload]
+        text: *trophyhunter
+
+  - name: Pyroclastic Flow
+    hash: 3161496501
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Quick Launch]
+          - [Alloy Casing, Impact Casing]
+          - [Cluster Bomb]
+          - [Bipod]
+        masterwork: [Reload]
+        text: &pyroclastic >-
+          To start with this is a precision frame which means it will never be a
+          legitimate DPS contender. That being said it could be a decent roam
+          option with bipod especially and the origin trait doing some work
+          adding some cool mag help. Don't forget that the frame gives it innate
+          tracking on the tockets too.
+      - tags: [pve]
+        perks:
+          - [
+              Quick Launch,
+              Hard Launch,
+              Smart Drift Control,
+              Linear Compensator,
+              Countermass,
+            ]
+          - [Alloy Casing, Impact Casing]
+          - [Cluster Bomb, Auto-loading Holster]
+          - [Bipod, Aggregate Charge]
+        masterwork: [Reload, Handling]
+        text: *pyroclastic
+
+  - name: Temporal Clause
+    hash: 3132669561
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [High-Caliber Rounds]
+          - [Demolitionist, Meganeura]
+          - [Killing Tally]
+        masterwork: [Reload]
+        text: &temporalclause >-
+          This looks really good. Probably the best solar machine gun in the
+          game. It also gets the stackable stagger effect as well since it is an
+          aggressive frame. Remember that reloading with a grenade via Demo
+          bypasses the stack reset on Killing Tally. Also the origin trait has
+          real potential here too.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [High-Caliber Rounds, Alloy Magazine, Appended Mag, Extended Mag]
+          - [Demolitionist, Meganeura, Incandescent]
+          - [Killing Tally]
+        masterwork: [Reload, Handling, Range, Stability]
+        text: *temporalclause
