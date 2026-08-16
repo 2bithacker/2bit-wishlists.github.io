@@ -161,3 +161,196 @@ wishlist:
           - [Killing Tally, Redirection, Meganeura]
         masterwork: [Reload, Handling, Range, Stability]
         text: *diablerets
+
+  - name: Battle Scar
+    hash: 1525080480
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [Alloy Magazine]
+          - [Attrition Orbs]
+          - [Kinetic Tremors]
+        masterwork: [Reload]
+        text: &battlescar >-
+          Pulse rifles were left in a bad spot by Bungie sadly, and while this
+          gets some really good perks and a great origin trait the gun just
+          struggles so hard when fighting elite+ baddies that it's hard to
+          justify using this over an auto rifle - especially since kinetic
+          tremors has tremendous value when fighting barrier champions
+          specifically, but doesn't matter much against the other two types and
+          though typically I am a lightweight pulse enjoyer (one of my favorite
+          archetypes ever in all of Destiny) it being an overload stun at base
+          means that this just is not quite good enough to be a super meta
+          crusher in highend content - it should be a very fun gun though if you
+          enjoy this archetype like I do.
+      - tags: [pve]
+        perks:
+          - [
+              Arrowhead Brake,
+              Fluted Barrel,
+              Corkscrew Rifling,
+              Hammer-Forged Rifling,
+            ]
+          - [
+              Alloy Magazine,
+              Accurized Rounds,
+              Flared Magwell,
+              Tactical Mag,
+              Appended Mag,
+            ]
+          - [Attrition Orbs, Shoot to Loot]
+          - [Kinetic Tremors]
+        masterwork: [Reload, Range, Handling]
+        text: *battlescar
+
+  - name: Scathelocke
+    hash: 3332538050
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [Alloy Magazine]
+          - [Attrition Orbs]
+          - [Kinetic Tremors]
+        masterwork: [Reload, Range]
+        text: &scathelocke >-
+          One of the best primary weapons in the game for sure. It stuns barrier
+          champs, which as discussed is the most ideal use case for a kinetic
+          tremors weapon. It has attrition orbs for utility and shoot to loot as
+          an alternative in the same slot. All that paired with a very good
+          origin trait means you’ve got a great workhorse that should basically
+          be the default barrier-stunning multimach alternative.
+      - tags: [pve]
+        perks:
+          - [
+              Arrowhead Brake,
+              Fluted Barrel,
+              Corkscrew Rifling,
+              Hammer-Forged Rifling,
+            ]
+          - [
+              Alloy Magazine,
+              Accurized Rounds,
+              Flared Magwell,
+              Tactical Mag,
+              Appended Mag,
+            ]
+          - [Attrition Orbs, Shoot to Loot]
+          - [Kinetic Tremors, Ancillary Ordinance]
+        masterwork: [Reload, Range, Handling]
+        text: *scathelocke
+
+  - name: Parabellum
+    hash: 3769072067
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [Alloy Magazine]
+          - [Heal Clip]
+          - [Attrition Orbs, Incandescent]
+        masterwork: [Reload, Range]
+        text: &parabellum >-
+          This is very close to being very good. The only place it falls down is
+          that attrition orbs is in the wrong column since basically SMGs are
+          pretty only attrition orbs printers in this final update. Adaptives
+          should at 900rpm, which is the same as the vaunted lightweight frame,
+          so theoretically this should print orbs as fast as the more famous
+          Yeartide Apex, but instead of a damage perk pairing like Chaos
+          Reshaped (which is too buggy to be used anyway) or a splash perk like
+          Incandescent it is instead paired with Heal Clip and Rewind Rounds. RR
+          allows the gun to perform the "orb printer" functionality really well
+          without having to pause to reload, and Heal Clip does give a small
+          survivability boost which could be clutch for a certain kind of
+          player. Whether this is actually going to be a good weapon for
+          high-end content remains to be seen. It lacks a lot of the flashiness
+          that would get this cooking in lower end content and in higher end
+          content it is still fighting an uphill battle as an SMG but it does
+          have its very specific niche - and of course the origin trait makes
+          this always worth considering.
+      - tags: [pve]
+        perks:
+          - [
+              Arrowhead Brake,
+              Fluted Barrel,
+              Corkscrew Rifling,
+              Hammer-Forged Rifling,
+            ]
+          - [
+              Alloy Magazine,
+              Accurized Rounds,
+              Flared Magwell,
+              Tactical Mag,
+              Appended Mag,
+            ]
+          - [Heal Clip, Rewind Rounds]
+          - [Attrition Orbs, Incandescent, Burning Ambition]
+        masterwork: [Reload, Range, Handling, Stability]
+        text: *parabellum
+
+  - name: Cartesian Coordinate
+    hash: 3719824177
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [Accelerated Coils]
+          - [Reconstruction]
+          - [Aggregate Charge, Controlled Burst, Reservoir Burst]
+        masterwork: [Charge Time]
+        text: >-
+          Fusion rifles are mediocre and this is a weak archetype. The origin
+          trait is good but not great on this style of weapon.
+
+  - name: Last Foray
+    hash: 4118936670
+    rolls:
+      - tags: [pve]
+        perks:
+          - [
+              Fluted Barrel,
+              Polygonal Rifling,
+              Corkscrew Rifling,
+              Arrowhead Brake,
+            ]
+          - [
+              Tactical Mag,
+              Appended Mag,
+              Extended Mag,
+              Steady Rounds,
+              Alloy Magazine,
+            ]
+          - [Rewind Rounds, Discord]
+          - [Bait and Switch, Precision Instrument, Incandescent]
+        masterwork: [Handling, Stability, Reload]
+        text: >-
+          This is just not very good. It's totally fine as a mediocre energy
+          slot unstoppable stun with some decent add clear potential as a
+          sniper, but that is a very specific niche and this is fighting an
+          uphill battle against a ton of weapons that do all of that better than
+          this.
+
+  - name: Nasreddin
+    hash: 1979417829
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Honed Edge]
+          - [Swordmaster's Guard, Heavy Guard]
+          - [Flash Counter]
+          - [Eager Edge]
+        masterwork: [Impact]
+        text: &nasreddin >-
+          Interesting Eager Edge utility option. Flash Counter is a cool little
+          tech on your movement sword but honestly swords are kind of just not
+          it right now, but if you are a sword enjoyer this is a very cool one
+          to add, especially with the origin trait in mind.
+      - tags: [pve]
+        perks:
+          - [Honed Edge, Jagged Edge]
+          - [Swordmaster's Guard, Heavy Guard]
+          - [Flash Counter]
+          - [Eager Edge]
+        masterwork: [Impact]
+        text: *nasreddin
