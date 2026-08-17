@@ -1,0 +1,529 @@
+---
+title: SpaceMonkey's Weapon Guide - Final Update - Iron Banner Weapons
+description: https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c/edit?usp=sharing
+author: SpaceMonkey
+wishlist:
+  - name: Allied Demand
+    hash: 247984830
+    rolls:
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Ricochet Rounds]
+          - [Rangefinder]
+          - [Iron Reach, Multikill Clip]
+        masterwork: [Range]
+        text: &allieddemand >-
+          PvP only. This gun can get an absurd amount of range for a sidearm.
+      - tags: [pvp]
+        perks:
+          - [Hammer-Forged Rifling, Full Bore, Smallbore, Corkscrew Rifling]
+          - [
+              Ricochet Rounds,
+              High-Caliber Rounds,
+              Armor-Piercing Rounds,
+              Light Mag,
+            ]
+          - [Rangefinder]
+          - [Iron Reach, Multikill Clip, Eye of the Storm]
+        masterwork: [Range, Stability]
+        text: *allieddemand
+
+  - name: Crimil's Dagger
+    hash: 1617917863
+    rolls:
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Accurized Rounds]
+          - [Slideshot, Slideways]
+          - [Precision Instrument, Adagio]
+        masterwork: [Range]
+        text: &crimil >-
+          PvP only. Mega stacked perk pool it's basically impossible to not get
+          a usable roll of this.
+      - tags: [pvp]
+        perks:
+          - [Hammer-Forged Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling]
+          - [Accurized Rounds]
+          - [Slideshot, Slideways, Moving Target, Lone Wolf, Keep Away]
+          - [
+              Precision Instrument,
+              Adagio,
+              Snapshot Sights,
+              Kill Clip,
+              Eye of the Storm,
+              Rangefinder,
+            ]
+        masterwork: [Range, Stability, Handling]
+        text: *crimil
+
+  - name: Lethal Abundance
+    hash: 1884897339
+    rolls:
+      - tags: [pvp]
+        perks:
+          - [
+              Arrowhead Brake,
+              Hammer-Forged Rifling,
+              Smallbore,
+              Corkscrew Rifling,
+            ]
+          - [Accurized Rounds, Flared Magwell, Tactical Mag]
+          - [Zen Moment, Dynamic Sway Reduction, Slice]
+          - [Tap the Trigger]
+        masterwork: [Range, Stability]
+        text: &lethalabundance >-
+          Not great for PvE but it is a strand primary that stuns unstoppables
+          and is not horrible  so it has a niche. For PvP  it's a particular
+          taste that would want this, but it can be a pretty consistent laser if
+          you go for that sort of thing - since you need 6 crits to hit the
+          optimal ttk you likely need either arrowhead brake or counterbalance
+          mod.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling]
+          - [Alloy Magazine, Flared Magwell]
+          - [Slice, Tear]
+          - [Onslaught, Hatchling]
+        masterwork: [Reload, Range]
+        text: *lethalabundance
+
+  - name: Multimach CCX
+    hash: 3026836571
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Accurized Rounds, Alloy Magazine, Flared Magwell]
+          - [Attrition Orbs]
+          - [Kinetic Tremors]
+        masterwork: [Reload]
+        text: &mmccx >-
+          The best SMG in the game and probably the best primary and possibly
+          the best gun in the game. Both origin traits are good depending on if
+          you value the QoL stats or you value survivability. This is my
+          favorite gun and it isn't close.
+      - tags: [pve]
+        perks:
+          - [
+              Hammer-Forged Rifling,
+              Smallbore,
+              Corkscrew Rifling,
+              Extended Barrel,
+            ]
+          - [Accurized Rounds, Alloy Magazine, Flared Magwell, Tactical Mag]
+          - [Attrition Orbs, Bewildering Burst]
+          - [Kinetic Tremors]
+        masterwork: [Reload, Range]
+        text: *mmccx
+
+  - name: Peacebond
+    hash: 247984829
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Hammer-Forged Rifling, Fluted Barrel]
+          - [Accurized Rounds, Alloy Magazine]
+          - [Headstone]
+          - [Rimestealer]
+        masterwork: [Range, Reload]
+        text: &peacebond >-
+          Stasis (and strand) primaries generally struggle compared to kinetics,
+          so this being the best kinetic slot primary sidearm by far mostly is a
+          condemnation of how bad the kinetic sidearms we've gotten throughout
+          destiny's history have been. That being said it is actually pretty
+          good in both PvE and PvP right now with the right rolls, considering
+          how deadly the adaptive burst frame is and also that it is a barrier
+          stunning weapon which is the highest value of all the champs stuns.
+      - tags: [pve]
+        perks:
+          - [Hammer-Forged Rifling, Fluted Barrel, Corkscrew Rifling, Smallbore]
+          - [Accurized Rounds, Alloy Magazine, Flared Magwell, Tactical Mag]
+          - [Headstone]
+          - [Rimestealer]
+        masterwork: [Range, Reload, Handling]
+        text: *peacebond
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Accurized Rounds]
+          - [Rangefinder]
+          - [Kill Clip]
+        masterwork: [Range]
+        text: *peacebond
+      - tags: [pvp]
+        perks:
+          - [
+              Hammer-Forged Rifling,
+              Full Bore,
+              Corkscrew Rifling,
+              Smallbore,
+              Fluted Barrel,
+            ]
+          - [Accurized Rounds]
+          - [Rangefinder]
+          - [Kill Clip]
+        masterwork: [Range, Handling]
+        text: *peacebond
+
+  - name: The Forward Path
+    hash: 1884897338
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake]
+          - [
+              Alloy Magazine,
+              Accurized Rounds,
+              Flared Magwell,
+              Tactical Mag,
+              Appended Mag,
+            ]
+          - [Slice]
+          - [Tear, Hatchling]
+        masterwork: [Reload, Range, Handling]
+        text: >-
+          Got changed to strand which actually sucks for it since it could have
+          been a legitimate alternative to Scathelocke, but instead is just a
+          solid strand primary for barrier stunning if that's what you want. Not
+          exciting at all outside of that framing. It has a good ammo gen stat,
+          but has an awkward recoil pattern which means you really want
+          arrowhead brake so that you can apply abundant ammo without any
+          drawbacks.
+
+  - name: The Time-Worn Spire
+    hash: 2204165992
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake]
+          - [High-Caliber Rounds, Alloy Magazine, Flared Magwell]
+          - [Firefly]
+          - [Headstone, Crystalline Corpsebloom]
+        masterwork: [Reload, Range, Handling, Stability]
+        text: >-
+          Honestly not bad for a pulse rifle, but it is still a pulse rifle in
+          this final sandbox and that's a steep hill to climb on top of also
+          being a non-kinetic kinetic slot primary. For all those drawbacks this
+          actually winds up being pretty alright. Another tragic recoil pattern
+          makes this harder to get a usable roll.
+
+  - name: Bite of the Fox
+    hash: 2851703775
+    rolls:
+      - tags: [pvp]
+        perks:
+          - [Fluted Barrel, Smallbore, Polygonal Rifling]
+          - [Accurized Rounds, Tactical Mag, Flared Magwell]
+          - [Snapshot Sights, No Distractions]
+          - [Opening Shot, Moving Target]
+        masterwork: [Handling, Stability]
+        text: >-
+          This is bad. Obvious trash in PvE, so only if you like aggressives in
+          pvp for some reason and like the sights on this.
+
+  - name: Pressurized precision
+    hash: 293709640
+    rolls:
+      - tags: [pvp]
+        perks:
+          - [
+              Extended Barrel,
+              Hammer-Forged Rifling,
+              Full Bore,
+              Smallbore,
+              Corkscrew Rifling,
+            ]
+          - [Projection Fuse, Particle Repeater]
+          - [Under Pressure, Discord, Lone Wolf, Firmly Planted, Moving Target]
+          - [High-Impact Reserves, Closing Time, Rangefinder]
+        masterwork: [Range, Stability, Charge Time]
+        text: >-
+          Fusion rifles basically don't exist in high-end PvE and the perks on
+          this are bad for that purpose anyway so we're only looking at PvP.
+
+  - name: Riiswalker
+    hash: 1435062001
+    rolls:
+      - tags: [pvp]
+        perks:
+          - [Smoothbore, Smallbore, Corkscrew Rifling, Barrel Shroud]
+          - [Accurized Rounds]
+          - [Slideshot, Discord, Surplus]
+          - [Opening Shot]
+        masterwork: [Range, Handling]
+        text: >-
+          PvP only. Some interesting perks here and a pretty good little
+          shotgun.
+
+  - name: Tinasha's Mastery
+    hash: 247984828
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Volatile Launch, Quick Launch, Confined Launch]
+          - [Flared Magwell, High-Velocity Rounds, High-Explosive Ordnance]
+          - [Air Trigger, Loose Change, Impulse Amplifier]
+          - [Chill Clip]
+        masterwork: [Blast Radius, Reload, Velocity, Handling]
+        text: >-
+          Honestly not what it once was and basically just strictly worse than
+          High Albedo for the same job. The only real niche this has is as a
+          double stun for overload and unstoppables in one weapon but even that
+          doesn't really matter that much anymore since we have so much access
+          to champion stunning now.
+
+  - name: Tusk of the Boar
+    hash: 491956886
+    rolls:
+      - tags: [pve]
+        perks:
+          - [
+              Volatile Launch,
+              Confined Launch,
+              Quick Launch,
+              Smart Drift Control,
+              Countermass,
+            ]
+          - [High-Velocity Rounds]
+          - [Slice]
+          - [Chain Reaction, Hatchling]
+        masterwork: [Reload, Blast Radius, Handling, Velocity]
+        text: >-
+          Wave frames are bad so this would have to be very special to dig out
+          of that hole and it kinda just isn't.
+
+  - name: Claws of the Wolf
+    hash: 3634548599
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake]
+          - [High-Caliber Rounds, Alloy Magazine]
+          - [Repulsor Brace]
+          - [Destabilizing Rounds]
+        masterwork: [Range, Stability]
+        text: &claws >-
+          If you're going to use a pulse rifle it is probably this one. Not easy
+          to get THE roll but worth it if you get it. Unfortunately it is still
+          a pulse rifle in this sandbox so there is still that.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake]
+          - [High-Caliber Rounds, Alloy Magazine, Flared Magwell, Light Mag]
+          - [Repulsor Brace]
+          - [Destabilizing Rounds, Attrition Orbs]
+        masterwork: [Range, Stability]
+        text: *claws
+
+  - name: Frontier's Cry
+    hash: 3203303472
+    rolls:
+      - tags: [pvp]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Accurized Rounds]
+          - [Rapid Hit, Tunnel Vision]
+          - [Kill Clip]
+        masterwork: [Range]
+        text: >-
+          This is legit horrible. Not usable anywhere in anything.
+
+  - name: Jorum's Claw
+    hash: 3634548598
+    rolls:
+      - tags: [pvp]
+        perks:
+          - [Arrowhead Brake]
+          - [
+              Ricochet Rounds,
+              Light Mag,
+              High-Caliber Rounds,
+              Armor-Piercing Rounds,
+            ]
+          - [Moving Target]
+          - [Headseeker, Kill Clip]
+        masterwork: [Range, Stability]
+        text: >-
+          Strictly for the adaptive pulse pvp enthusiasts.
+
+  - name: Point of the Stag
+    hash: 911019136
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Elastic String]
+          - [Fiberglass Arrow Shaft]
+          - [Dragonfly]
+          - [Voltshot]
+        masterwork: [Draw Time]
+        text: &stag >-
+          Legit great bow. Dragonfly isn't as uniquely powerful on bows as it
+          once was but that's because other weapons got brought up not because
+          bows got nerfed. Obviously the best bow in the energy slot by a pretty
+          hefty margin.
+      - tags: [pve]
+        perks:
+          - [Elastic String, Polymer String]
+          - [Fiberglass Arrow Shaft, Compact Arrow Shaft, Straight Fletching]
+          - [Dragonfly]
+          - [Voltshot]
+        masterwork: [Draw Time]
+        text: *stag
+
+  - name: The Hero's Burden
+    hash: 4222913208
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Extended Barrel, Hammer-Forged Rifling, Fluted Barrel]
+          - [Tactical Mag, Accurized Rounds, Flared Magwell, Appended Mag]
+          - [Feeding Frenzy]
+          - [Destabilizing Rounds]
+        masterwork: [Range, Reload]
+        text: >-
+          Some of these perk pools they released on these so-called "updated"
+          guns are criminal. The perk 1 column on this gun is a war crime.
+
+  - name: Felwinter's Lie
+    hash: 218787950
+    rolls:
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Smallbore]
+          - [Accurized Rounds]
+          - [Threat Detector, Slideshot]
+          - [Opening Shot, Closing Time]
+        masterwork: [Range]
+        text: &felwinter >-
+          PvP looks great lots of options and playstyles. PvE there is a
+          specific high-damage use case when paired with things like Parasite in
+          a dedicated rotation, but that is a highly specific niche that won't
+          be relevant to most players.
+      - tags: [pvp]
+        perks:
+          - [Smallbore, Corkscrew Rifling, Barrel Shroud]
+          - [Accurized Rounds, Light Mag]
+          - [Threat Detector, Slideshot, Lone Wolf]
+          - [Opening Shot, Closing Time, Iron Reach]
+        masterwork: [Range, Handling]
+        text: *felwinter
+      - tags: [pve, god-pve]
+        perks:
+          - [Barrel Shroud]
+          - [Assault Mag]
+          - [Cascade Point]
+          - [Bait and Switch]
+        masterwork: [Handling]
+        text: *felwinter
+      - tags: [pve]
+        perks:
+          - [Barrel Shroud, Corkscrew Rifling]
+          - [Assault Mag]
+          - [Cascade Point]
+          - [Bait and Switch]
+        masterwork: [Handling, Reload]
+        text: *felwinter
+
+  - name: Gunnora's Axe
+    hash: 218787951
+    rolls:
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Hammer-Forged Rifling]
+          - [Ricochet Rounds]
+          - [Threat Detector, Slideshot]
+          - [Opening Shot, Closing Time]
+        masterwork: [Range, Handling]
+        text: &gunnora >-
+          Looks good for the precision slug pvp enthusiasts out there.
+      - tags: [pvp]
+        perks:
+          - [Hammer-Forged Rifling, Fluted Barrel, Smallbore]
+          - [
+              Ricochet Rounds,
+              High-Caliber Rounds,
+              Armor-Piercing Rounds,
+              Light Mag,
+            ]
+          - [Threat Detector, Slideshot, Lone Wolf]
+          - [Opening Shot, Closing Time]
+        masterwork: [Range, Handling]
+        text: *gunnora
+
+  - name: Occluded Finality
+    hash: 3104013318
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+          - [Flared Magwell, Ricochet Rounds]
+          - [Snapshot Sights, Lone Wolf, Moving Target, No Distractions]
+          - [Opening Shot, Closing Time]
+        masterwork: [Handling, Stability]
+        text: >-
+          It has okay PvE rolls but is so heavily outclassed in that department
+          I'm not even bothering. It gets decent PvP rolls, but is an aggressive
+          sniper so you have to be someone who really wants to use one for this
+          to matter.
+
+  - name: The Wizened Rebuke
+    hash: 293709641
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake]
+          - [Accelerated Coils]
+          - [Overflow]
+          - [Controlled Burst]
+        masterwork: [Charge Time]
+        text: &wizened >-
+          Basically hands down the best fusion rifle in the game, and even then
+          it still is just a fusion rifle - which are basically absent from the
+          meta unfortunately. Also this is going to be a very very difficult
+          roll to get.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake]
+          - [Accelerated Coils]
+          - [Overflow, Discord]
+          - [Controlled Burst, Reservoir Burst]
+        masterwork: [Charge Time]
+        text: *wizened
+
+  - name: Archon's Thunder
+    hash: 91672792
+    rolls:
+      - tags: [pvp]
+        perks:
+          - [Arrowhead Brake]
+          - [Accurized Rounds, Extended Mag, Flared Magwell, Tactical Mag]
+          - [Dynamic Sway Reduction, High-Impact Reserves]
+          - [Killing Tally, Tap the Trigger]
+        masterwork: [Range, Stability]
+        text: >-
+          This is pretty lackluster. PvE is a nonstarter due to no autoloading
+          perks. In PvP you can get a nifty roll if you want.
+
+  - name: Roar of the Bear
+    hash: 2881109029
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Quick Launch]
+          - [Impact Casing]
+          - [Explosive Light]
+          - [Bipod, Reaper's Tithe]
+        masterwork: [Reload]
+        text: &roarbear >-
+          It's ok. The frame isn't great for PvE and Explosive Light isn't
+          really a big draw tbh. PvP legendary rocket option.
+      - tags: [pvp]
+        perks:
+          - [Quick Launch]
+          - [High-Velocity Rounds]
+          - [Tracking Module]
+          - [Cluster Bomb]
+        masterwork: [Velocity]
+        text: *roarbear

@@ -1,0 +1,636 @@
+---
+title: SpaceMonkey's Weapon Guide - Final Update - Destination Weapons
+description: https://docs.google.com/document/d/1KGxePntz2loCYlAhdKm0fJyyf_YURJ1Zd7L1smsu4-c/edit?usp=sharing
+author: SpaceMonkey
+wishlist:
+  - name: DEADHORSE 04
+    hash: 822872238
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+          - [Alloy Magazine]
+          - [Rimestealer]
+          - [Crystalline Corpsebloom]
+        masterwork: [Range]
+        text: &deadhorse >-
+          This is totally fine. SMGs are mostly just utility guns now and this
+          honestly doesn't come with enough utility or lethality to really
+          justify being used outside of a dedicated stasis build that cares
+          deeply about the keywords this provides.
+      - tags: [pve]
+        perks:
+          - [
+              Fluted Barrel,
+              Corkscrew Rifling,
+              Arrowhead Brake,
+              Hammer-Forged Rifling,
+            ]
+          - [
+              Alloy Magazine,
+              Accurized Rounds,
+              Flared Magwell,
+              Tactical Mag,
+              Appended Mag,
+            ]
+          - [Rimestealer, Impromptu Ammunition]
+          - [Crystalline Corpsebloom, Redirection]
+        masterwork: [Range, Reload, Handling]
+        text: *deadhorse
+
+  - name: DECATUR 02
+    hash: 1850748385
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Full Bore, Corkscrew Rifling]
+          - [Accurized Rounds, Alloy Magazine]
+          - [Physic, Attrition Orbs]
+          - [Reciprocity]
+        masterwork: [Range]
+        text: &decatur >-
+          The best kinetic slot support auto by a wide margin. Grants Frost
+          Armor as the intrinsic which is neat. I suppose there really isn't
+          much more to say about it. If you're in a fireteam and you like to
+          heal people and your build uses from Frost Armor keywords then yeah
+          this is probably your gun.
+      - tags: [pve]
+        perks:
+          - [Full Bore, Corkscrew Rifling, Hammer-forged Rifling, Smallbore]
+          - [Accurized Rounds, Alloy Magazine, Flared Magwell]
+          - [Physic, Attrition Orbs, Crystalline Corpsebloom]
+          - [Reciprocity, Master of Arms, Circle of Life, Redirection]
+        masterwork: [Range, Reload]
+        text: *decatur
+
+  - name: ALLEN 05
+    hash: 423677697
+    rolls:
+      - tags: [pve]
+        perks:
+          - [
+              Fluted Barrel,
+              Polygonal Rifling,
+              Corkscrew Rifling,
+              Arrowhead Brake,
+            ]
+          - [Tactical Mag, Steady Rounds, Alloy Magazine]
+          - [Fourth Time's the Charm, Lone Wolf, Tear]
+          - [Precision Instrument, Firing Line]
+        masterwork: [Handling, Stability, Reload]
+        text: >-
+          Not very good honestly. There are better adaptive snipers in this slot
+          and better strand snipers. It would have been an incredible PvP sniper
+          if Carrion Munitions worked in the Crucible, but sadly not only does
+          it not do the cool insectoid thing it actually just has no function at
+          all, so this is actually worse than any other similar PvP sniper with
+          an origin trait (all of them).
+
+  - name: TAHOMA 01
+    hash: 1225851434
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Arrowhead Brake]
+          - [Accelerated Coils]
+          - [Overflow, Lead from Gold, Demolitionist, Hatchling]
+          - [Aggregate Charge, Controlled Burst, Reservoir Burst]
+        masterwork: [Charge Time]
+        text: >-
+          Fusion rifles are mediocre and this is one of the worst archetypes and
+          has almost nothing going for it other than the origin trait.
+
+  - name: IRONWOOD 03
+    hash: 2041617874
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Barrel Shroud, Corkscrew Rifling]
+          - [Alloy Magazine]
+          - [Repulsor Brace]
+          - [Destabilizing Rounds]
+        masterwork: [Reload]
+        text: &ironwood >-
+          Absolute powerhouse of a redbar slayer. Faces a lot of steep
+          competition in the slot, especially since it only stuns overloads, but
+          the origin trait and base lethality of the frame should do a lot of
+          heavy lifting for this gun. If you can play within its range this is
+          one of the best void combo weapons we have.
+      - tags: [pve]
+        perks:
+          - [Barrel Shroud, Corkscrew Rifling, Smallbore]
+          - [Alloy Magazine, Accurized Rounds, Flared Magwell]
+          - [Repulsor Brace, Dimensional Shift, Threat Remover]
+          - [Destabilizing Rounds, Surrounded]
+        masterwork: [Reload, Range, Handling]
+        text: *ironwood
+
+  - name: DIABLERETS 06
+    hash: 1120206506
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake]
+          - [Extended Mag, Alloy Magazine, High-Caliber Rounds]
+          - [Auto-loading Holster]
+          - [Killing Tally]
+        masterwork: [Reload]
+        text: &diablerets >-
+          Extreme add clear machine gun here, one of the best in the game with
+          the origin trait. Especially in overload heavy content this gun should
+          do incredible work. One of the best new guns we were given. This also
+          very much fits the way I like to play personally, so I prefer this
+          over many other similar weapons as well. Annoyingly this gun's recoil
+          pattern is pretty rough, so even with Arrowhead Brake you likely still
+          need to take Counterbalance mod if you don't want the gun to kick up
+          and right on you when you pull it out. But that means no Backup Mag,
+          which is a pretty big downside but tbh is probably just the reality of
+          Rapid-Fire machine guns at this point.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [
+              Extended Mag,
+              Alloy Magazine,
+              High-Caliber Rounds,
+              Appended Mag,
+              Flared Magwell,
+              Light Mag,
+            ]
+          - [Auto-loading Holster, Hatchling, Subsistence]
+          - [Killing Tally, Redirection, Meganeura]
+        masterwork: [Reload, Handling, Range, Stability]
+        text: *diablerets
+
+  - name: Battle Scar
+    hash: 1525080480
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [Alloy Magazine]
+          - [Attrition Orbs]
+          - [Kinetic Tremors]
+        masterwork: [Reload]
+        text: &battlescar >-
+          Pulse rifles were left in a bad spot by Bungie sadly, and while this
+          gets some really good perks and a great origin trait the gun just
+          struggles so hard when fighting elite+ baddies that it's hard to
+          justify using this over an auto rifle - especially since kinetic
+          tremors has tremendous value when fighting barrier champions
+          specifically, but doesn't matter much against the other two types and
+          though typically I am a lightweight pulse enjoyer (one of my favorite
+          archetypes ever in all of Destiny) it being an overload stun at base
+          means that this just is not quite good enough to be a super meta
+          crusher in highend content - it should be a very fun gun though if you
+          enjoy this archetype like I do.
+      - tags: [pve]
+        perks:
+          - [
+              Arrowhead Brake,
+              Fluted Barrel,
+              Corkscrew Rifling,
+              Hammer-Forged Rifling,
+            ]
+          - [
+              Alloy Magazine,
+              Accurized Rounds,
+              Flared Magwell,
+              Tactical Mag,
+              Appended Mag,
+            ]
+          - [Attrition Orbs, Shoot to Loot]
+          - [Kinetic Tremors]
+        masterwork: [Reload, Range, Handling]
+        text: *battlescar
+
+  - name: Scathelocke
+    hash: 3332538050
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [Alloy Magazine]
+          - [Attrition Orbs]
+          - [Kinetic Tremors]
+        masterwork: [Reload, Range]
+        text: &scathelocke >-
+          One of the best primary weapons in the game for sure. It stuns barrier
+          champs, which as discussed is the most ideal use case for a kinetic
+          tremors weapon. It has attrition orbs for utility and shoot to loot as
+          an alternative in the same slot. All that paired with a very good
+          origin trait means you've got a great workhorse that should basically
+          be the default barrier-stunning multimach alternative.
+      - tags: [pve]
+        perks:
+          - [
+              Arrowhead Brake,
+              Fluted Barrel,
+              Corkscrew Rifling,
+              Hammer-Forged Rifling,
+            ]
+          - [
+              Alloy Magazine,
+              Accurized Rounds,
+              Flared Magwell,
+              Tactical Mag,
+              Appended Mag,
+            ]
+          - [Attrition Orbs, Shoot to Loot]
+          - [Kinetic Tremors, Ancillary Ordinance]
+        masterwork: [Reload, Range, Handling]
+        text: *scathelocke
+
+  - name: Parabellum
+    hash: 3769072067
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [Alloy Magazine]
+          - [Heal Clip]
+          - [Attrition Orbs, Incandescent]
+        masterwork: [Reload, Range]
+        text: &parabellum >-
+          This is very close to being very good. The only place it falls down is
+          that attrition orbs is in the wrong column since basically SMGs are
+          pretty only attrition orbs printers in this final update. Adaptives
+          should at 900rpm, which is the same as the vaunted lightweight frame,
+          so theoretically this should print orbs as fast as the more famous
+          Yeartide Apex, but instead of a damage perk pairing like Chaos
+          Reshaped (which is too buggy to be used anyway) or a splash perk like
+          Incandescent it is instead paired with Heal Clip and Rewind Rounds. RR
+          allows the gun to perform the "orb printer" functionality really well
+          without having to pause to reload, and Heal Clip does give a small
+          survivability boost which could be clutch for a certain kind of
+          player. Whether this is actually going to be a good weapon for
+          high-end content remains to be seen. It lacks a lot of the flashiness
+          that would get this cooking in lower end content and in higher end
+          content it is still fighting an uphill battle as an SMG but it does
+          have its very specific niche - and of course the origin trait makes
+          this always worth considering.
+      - tags: [pve]
+        perks:
+          - [
+              Arrowhead Brake,
+              Fluted Barrel,
+              Corkscrew Rifling,
+              Hammer-Forged Rifling,
+            ]
+          - [
+              Alloy Magazine,
+              Accurized Rounds,
+              Flared Magwell,
+              Tactical Mag,
+              Appended Mag,
+            ]
+          - [Heal Clip, Rewind Rounds]
+          - [Attrition Orbs, Incandescent, Burning Ambition]
+        masterwork: [Reload, Range, Handling, Stability]
+        text: *parabellum
+
+  - name: Cartesian Coordinate
+    hash: 3719824177
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [Accelerated Coils]
+          - [Reconstruction]
+          - [Aggregate Charge, Controlled Burst, Reservoir Burst]
+        masterwork: [Charge Time]
+        text: >-
+          Fusion rifles are mediocre and this is a weak archetype. The origin
+          trait is good but not great on this style of weapon.
+
+  - name: Last Foray
+    hash: 4118936670
+    rolls:
+      - tags: [pve]
+        perks:
+          - [
+              Fluted Barrel,
+              Polygonal Rifling,
+              Corkscrew Rifling,
+              Arrowhead Brake,
+            ]
+          - [
+              Tactical Mag,
+              Appended Mag,
+              Extended Mag,
+              Steady Rounds,
+              Alloy Magazine,
+            ]
+          - [Rewind Rounds, Discord]
+          - [Bait and Switch, Precision Instrument, Incandescent]
+        masterwork: [Handling, Stability, Reload]
+        text: >-
+          This is just not very good. It's totally fine as a mediocre energy
+          slot unstoppable stun with some decent add clear potential as a
+          sniper, but that is a very specific niche and this is fighting an
+          uphill battle against a ton of weapons that do all of that better than
+          this.
+
+  - name: Nasreddin
+    hash: 1979417829
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Honed Edge]
+          - [Swordmaster's Guard, Heavy Guard]
+          - [Flash Counter]
+          - [Eager Edge]
+        masterwork: [Impact]
+        text: &nasreddin >-
+          Interesting Eager Edge utility option. Flash Counter is a cool little
+          tech on your movement sword but honestly swords are kind of just not
+          it right now, but if you are a sword enjoyer this is a very cool one
+          to add, especially with the origin trait in mind.
+      - tags: [pve]
+        perks:
+          - [Honed Edge, Jagged Edge]
+          - [Swordmaster's Guard, Heavy Guard]
+          - [Flash Counter]
+          - [Eager Edge]
+        masterwork: [Impact]
+        text: *nasreddin
+
+  - name: Pluperfect
+    hash: 2203881482
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [High-Caliber Rounds]
+          - [Stopping Power]
+          - [Kinetic Tremors]
+        masterwork: [Reload]
+        text: &pluperfect >-
+          Very unique gun. Can combine all 3 staggering mechanics on one gun to
+          provide some real crowd control to keep enemies flinched. Honestly
+          it's a very cool different way to think about a supportive utility
+          playstyle and I actually really dig it.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling]
+          - [High-Caliber Rounds]
+          - [Stopping Power]
+          - [Kinetic Tremors, Aggregate Charge]
+        masterwork: [Reload, Handling]
+        text: *pluperfect
+
+  - name: True Prophecy
+    hash: 960948343
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+          - [Alloy Magazine, Flared Magwell, Tactical Mag]
+          - [Light Touch, Trickle Charge]
+          - [Jolting Feedback]
+        masterwork: [Reload, Handling]
+        text: >-
+          Really bad. This archetype sucks in PvE and the perks aren't really
+          that great either.
+
+  - name: The Deicide
+    hash: 1517780158
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Barrel Shroud]
+          - [Appended Mag]
+          - [Auto-loading Holster]
+          - [Trench Barrel, One-Two Punch]
+        masterwork: [Handling, Reload]
+        text: &deicide >-
+          This is fine. High QoL roaming melee-build-based shotgun. We've had
+          these before and this is just another one. A solid entry but an
+          unexciting one.
+      - tags: [pve]
+        perks:
+          - [Barrel Shroud, Corkscrew Rifling]
+          - [Appended Mag, Extended Mag, Accurized Rounds, Tactical Mag]
+          - [
+              Auto-loading Holster,
+              Discord,
+              Lead from Gold,
+              Threat Detector,
+              Dual Loader,
+              Light Touch,
+            ]
+          - [Trench Barrel, One-Two Punch]
+        masterwork: [Handling, Reload, Range]
+        text: *deicide
+
+  - name: Trophy Hunter
+    hash: 2566169398
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Fluted Barrel]
+          - [Tactical Mag, Appended Mag]
+          - [Triple Tap, Auto-loading Holster]
+          - [Aggregate Charge, Withering Gaze]
+        masterwork: [Handling]
+        text: &trophyhunter >-
+          This was close in a couple different ways to being a legitimately meta
+          weapon, but it falls short every time. It's not the best DPS sniper
+          (even in the energy slot), it's not the best withering gaze sniper,
+          and it isn't even the best unstoppable stunning sniper in the energy
+          slot. It gets some good rolls and if you like the gun it will
+          certainly have success for you, it's just like 2nd place in 3
+          categories without winning any of them.
+      - tags: [pve]
+        perks:
+          - [
+              Fluted Barrel,
+              Polygonal Rifling,
+              Corkscrew Rifling,
+              Arrowhead Brake,
+            ]
+          - [
+              Tactical Mag,
+              Appended Mag,
+              Extended Mag,
+              Steady Rounds,
+              Alloy Magazine,
+            ]
+          - [Triple Tap, Auto-loading Holster, Lead from Gold]
+          - [Aggregate Charge, Withering Gaze, Bait and Switch]
+        masterwork: [Handling, Stability, Reload]
+        text: *trophyhunter
+
+  - name: Pyroclastic Flow
+    hash: 3161496501
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Quick Launch]
+          - [Alloy Casing, Impact Casing]
+          - [Cluster Bomb]
+          - [Bipod]
+        masterwork: [Reload]
+        text: &pyroclastic >-
+          To start with this is a precision frame which means it will never be a
+          legitimate DPS contender. That being said it could be a decent roam
+          option with bipod especially and the origin trait doing some work
+          adding some cool mag help. Don't forget that the frame gives it innate
+          tracking on the tockets too.
+      - tags: [pve]
+        perks:
+          - [
+              Quick Launch,
+              Hard Launch,
+              Smart Drift Control,
+              Linear Compensator,
+              Countermass,
+            ]
+          - [Alloy Casing, Impact Casing]
+          - [Cluster Bomb, Auto-loading Holster]
+          - [Bipod, Aggregate Charge]
+        masterwork: [Reload, Handling]
+        text: *pyroclastic
+
+  - name: Temporal Clause
+    hash: 3132669561
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [High-Caliber Rounds]
+          - [Demolitionist, Meganeura]
+          - [Killing Tally]
+        masterwork: [Reload]
+        text: &temporalclause >-
+          This looks really good. Probably the best solar machine gun in the
+          game. It also gets the stackable stagger effect as well since it is an
+          aggressive frame. Remember that reloading with a grenade via Demo
+          bypasses the stack reset on Killing Tally. Also the origin trait has
+          real potential here too.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [High-Caliber Rounds, Alloy Magazine, Appended Mag, Extended Mag]
+          - [Demolitionist, Meganeura, Incandescent]
+          - [Killing Tally]
+        masterwork: [Reload, Handling, Range, Stability]
+        text: *temporalclause
+
+  - name: Seventh Seraph Carbine
+    hash: 2560370239
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [Seraph Rounds]
+          - [Attrition Orbs]
+          - [Kinetic Tremors]
+        masterwork: [Reload]
+        text: &sscarbine >-
+          The poor mans Scathelocke and the poor mans Pluperfect together in one
+          gun. Unfortunately it's a precision frame which is basically just
+          strictly worse than adaptives so it will always be worse than
+          scathelocke - especially at an origin trait discrepancy. And then
+          Pluperfect is just better for staggering enemies even if you wanted to
+          use this for that playstyle. It's a fine gun to have around as a
+          workhorse especially if you like it, it just isn't top of the class.
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling]
+          - [Seraph Rounds, Alloy Magazine, Flared Magwell, Tactical Mag]
+          - [Attrition Orbs, Stopping Power]
+          - [Kinetic Tremors, Ancillary Ordinance]
+        masterwork: [Reload, Handling, Range]
+        text: *sscarbine
+
+  - name: Seventh Seraph Officer Revolver
+    hash: 3490736392
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+          - [Seraph Rounds, Alloy Magazine, Flared Magwell, Tactical Mag]
+          - [Shoot to Loot, Bewildering Burst]
+          - [Explosive Payload]
+        masterwork: [Reload, Handling]
+        text: >-
+          This is fine. Another shoot to loot + explosive payload weapon but
+          this isn't even the best kinetic precision stl+ep hand cannon in the
+          meta right now. It's a very specific kind of player that even wants
+          this roll anyway, and that kind of player will probably go for the
+          better weapon anyway.
+
+  - name: Seventh Seraph SI-2
+    hash: 453798564
+    rolls:
+      - tags: [pve, god-pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [Seraph Rounds]
+          - [Destabilizing Rounds]
+          - [Repulsor Brace]
+        masterwork: [Range, Reload]
+        text: &sssi2 >-
+          Really good sidearm, pretty much only overshadowed by a specific
+          accelerated assault version of the renegades sidearm. And for anyone
+          who just doesn't want to deal with blaster mechanics this is almost
+          exactly the same thing - and it gets seraph rounds!
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel, Corkscrew Rifling]
+          - [Seraph Rounds, Alloy Magazine, Flared Magwell, Tactical Mag]
+          - [Destabilizing Rounds, Dimensional Shift]
+          - [Repulsor Brace, Meganeura, Surrounded]
+        masterwork: [Range, Reload, Handling]
+        text: *sssi2
+
+  - name: Seventh Seraph VY-7
+    hash: 1719169808
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Fluted Barrel, Corkscrew Rifling, Arrowhead Brake]
+          - [Seraph Rounds, Alloy Magazine, Flared Magwell, Tactical Mag]
+          - [Supercharged Magazine, Trickle Charge]
+          - [Jolting Feedback]
+        masterwork: [Reload, Range, Handling]
+        text: >-
+          Precision frame smgs are not good. This also doesn't get attrition
+          orbs or anything really special. This is a dud.
+
+  - name: Seventh Seraph CQC-12
+    hash: 2308010345
+    rolls:
+      - tags: [pvp, god-pvp]
+        perks:
+          - [Smoothbore]
+          - [Accurized Rounds]
+          - [Threat Detector, Slideshot]
+          - [Closing Time]
+        masterwork: [Handling, Reload]
+        text: &sscqc >-
+          PvP only. Actually should be a good little gun in the crucible
+          honestly.
+      - tags: [pvp]
+        perks:
+          - [Smoothbore, Smallbore, Barrel Shroud, Corkscrew Rifling]
+          - [Accurized Rounds, Light Mag]
+          - [Threat Detector, Slideshot]
+          - [Closing Time]
+        masterwork: [Handling, Reload, Range]
+        text: *sscqc
+
+  - name: Seventh Seraph SAW
+    hash: 2584201248
+    rolls:
+      - tags: [pve]
+        perks:
+          - [Arrowhead Brake, Fluted Barrel]
+          - [Alloy Magazine, Appended Mag, Extended Mag]
+          - [Supercharged Magazine, Trickle Charge]
+          - [Killing Tally, Meganeura, Jolting Feedback]
+        masterwork: [Reload, Handling, Range, Stability]
+        text: >-
+          Not very interesting, there are a lot of machine guns that do
+          everything this does better.
